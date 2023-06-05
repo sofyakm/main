@@ -5,5 +5,6 @@ int main() {
     int sum = a +b;
     printf("summa: %d/n", sum);
     printf("raznost: %d/n", difference);
+    printf("proizvedenie: %d/n", multiplier);
 return 0;
 }
