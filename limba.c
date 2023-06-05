@@ -4,5 +4,6 @@ int main() {
     int b = 4;
     int sum = a +b;
     printf("summa: %d/n", sum);
-return o;
+    printf("raznost: %d/n", difference);
+return 0;
 }
